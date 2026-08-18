@@ -8,8 +8,8 @@
 
   <p align="center">
     사진으로 기록하는 나만의 외식 일기장<br>
-    <a href="https://github.com/orgs/TmPIKONE/repositories"><strong>Backend Repo »</strong></a><br>
-    <a href="https://github.com/orgs/TmPIKONE/repositories"><strong>Frontend Repo »</strong></a>
+    <a href="https://github.com/TmPIKONE/backend-master"><strong>Backend Repo »</strong></a><br>
+    <a href="https://github.com/TmPIKONE/pikone-frontend"><strong>Frontend Repo »</strong></a>
   </p>
 
 </div>
