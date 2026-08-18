@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- PIKONE 로고 이미지 업로드 후 src 교체 -->
-
-  <!-- <img src="PIKONE_LOGO_IMAGE_URL" width="197" /> -->
+  <img src="https://avatars.githubusercontent.com/u/279884388?s=400&u=3c85eb4432fecb5ffa93bf15bf37d70b382b7afa&v=4" width="193" height="193" />
 
   <h3 align="center">PIKONE 🍽️</h3>
-
   <p align="center">
     사진으로 기록하는 나만의 외식 일기장<br>
     <a href="https://github.com/TmPIKONE/backend-master"><strong>Backend Repo »</strong></a><br>
