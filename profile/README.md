@@ -155,13 +155,7 @@ PIKONE은 사진을 중심으로 외식 경험을 간편하게 기록하고,
 ---
 
 ## 🗂️ Database
-
-<details open>
-  <summary>&nbsp;<strong>MySQL</strong>&nbsp;:&nbsp;&nbsp;<strong>서비스 데이터</strong>&nbsp;&nbsp;⇒&nbsp;&nbsp;사용자, 식당, 외식 기록, 동반자 등</summary>
-
-<br>
-
-<!-- ERD 이미지 업로드 후 교체 -->
+<img width="2339" height="898" alt="Image" src="https://github.com/user-attachments/assets/b6400f12-6b64-41b1-bff0-6e9bec55abbe" />
 
 <img width="1470" alt="PIKONE MySQL ERD" src="PIKONE_ERD_IMAGE_URL">
 
